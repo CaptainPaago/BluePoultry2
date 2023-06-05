@@ -4,9 +4,8 @@
     "paragraph": "Where Clucks of Quality Meet Eggs-traordinary Delight!"
   },
   "About": {
-    "paragraph": "We believe that the quality of life for our poultry reflects the quality on your plate. Our birds enjoy a diverse, organic diet, filled with locally sourced grains and lush, pesticide-free vegetation. 
-    With Dextraordinary Farm, you're not just supporting a poultry farm, but joining a community of conscious consumers who value sustainability and animal welfare. Each purchase supports our mission to provide an idyllic haven for poultry and inspires a future where responsible farming practices are the norm. 
-    Come, experience the taste of genuine farm-to-table goodness. Discover Feather Haven, where passion, integrity, and the finest poultry products come together harmoniously, enriching your meals and your conscience.",
+    "paragraph": "We believe that the quality of life for our poultry reflects the quality on your plate. Our birds enjoy a diverse, organic diet, filled with locally sourced grains and lush, pesticide-free vegetation. With Dextraordinary Farm, you're not just supporting a poultry farm, but joining a community of conscious consumers who value sustainability and animal welfare. Each purchase supports our mission to provide an idyllic haven for poultry and inspires a future where responsible farming practices are the norm. Come, experience the taste of genuine farm-to-table goodness. Discover Feather Haven, where passion, integrity, and the finest poultry products come together harmoniously, enriching your meals and your conscience.",
+    
     "Why": [
       "Superior Quality",
       "Ethical Choices",
@@ -168,17 +167,17 @@
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Transperency",
+      "title": "Transparency",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "Range",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "Resources",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
