@@ -1,21 +1,23 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "DEXTRAORDINARY FARM",
+    "paragraph": "Where Clucks of Quality Meet Eggs-traordinary Delight!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We believe that the quality of life for our poultry reflects the quality on your plate. Our birds enjoy a diverse, organic diet, filled with locally sourced grains and lush, pesticide-free vegetation. 
+    With Dextraordinary Farm, you're not just supporting a poultry farm, but joining a community of conscious consumers who value sustainability and animal welfare. Each purchase supports our mission to provide an idyllic haven for poultry and inspires a future where responsible farming practices are the norm. 
+    Come, experience the taste of genuine farm-to-table goodness. Discover Feather Haven, where passion, integrity, and the finest poultry products come together harmoniously, enriching your meals and your conscience.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Superior Quality",
+      "Ethical Choices",
+      "Expert Farmers",
+      "Sustainable Practices"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Farm-To-Table Freshness",
+      "Exceptional Animal Welfare",
+      "Health Benefits",
+      "Customer Satisfaction"
     ]
   },
   "Gallery": [
@@ -68,93 +70,92 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "name": "Hatchery Services",
+      "text": "We operate excellent hatcheries, offering hatching services for eggs. This can be beneficial for individuals or businesses looking to start their own flock or expand their existing poultry operations."    },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Poultry Products",
+      "text": "We offer the sale of poultry products, including whole chickens, chicken parts (such as breasts, thighs, drumsticks), eggs, and processed poultry products such as sausages or ready-to-cook items"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Gift Delivery and Shipping",
+      "text": "For your convenience, our farm offers delivery services to customers anywhere within Nigeria, saving you the burden of carrying chicken for your village people. We ensure your selections reach you or your friends in a timely and fresh manner."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "name": "Farm Visit and Tours",
+      "text": "We also provide farm visitation or guided tours, allowing individuals, educational institutions, or groups to explore and learn about poultry farming practices. This service offers a hands-on experience and educates visitors about the farm's operations, animal welfare practices, and sustainable farming methods."
+  },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Consulting and Advice",
+      "text": "Our farm shares its extensive experience and expertise through consulting services to aspiring farmers or individuals looking to start their own poultry operations. This includes guidance on farm setup, breed selection, nutrition, disease management, and general best practices."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Health and Educational Outreach",
+      "text": "To ensure the well-being of the poultry, we provide flock health monitoring services, including regular workshops, check-ups, disease prevention measures, and vaccination programs. This helps spread knowledge and maintain a healthy and disease-free flock."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Dextraordinary Farm has truly redefined quality poultry products. The chickens are incredibly flavorful, and the eggs are always fresh and delicious. I can trust that Ifeoma's commitment to excellence and ethical farming practices ensures that I am getting the best poultry for my family.\"",
+      "name": "Adaobi Okonkwo"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"These are true professionals. The chickens I purchased here were of exceptional quality, and the customer service was top-notch. Their knowledge and passion for poultry farming shine through in every aspect of their operations. I highly recommend their poultry!\"",
+      "name": "Tunde Adepoju"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The eggs are always fresh and full of flavor. The attention to detail and commitment to organic farming practices make all the difference. I'm a loyal customer and wouldn't go anywhere else for my poultry needs\"",
+      "name": "Funmilayo Ojo"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\" Dextraordinary Farm is my go-to source for high-quality poultry. The chickens are tender and juicy, and the variety of cuts available is impressive. Its dedication to sustainable farming and their warm customer service made the experience truly exceptional.\"",
+      "name": "Emeka Nwosu"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"This is a testament to excellence. The poultry products are of unmatched quality, and Ngozi's expertise in economics shines through in her efficient farming practices. Dextraordinary Farm is a prime example of how entrepreneurship and agriculture can go hand in hand.\"",
+      "name": "Douglas Chindah"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"This poultry Farm offers poultry products that are second to none. The flavor and texture of the meat are outstanding, the chickens are raised with care and the customers are treated with respect. They even exhibited concern for my [islamic] dietary practices\"",
+      "name": "Ibrahim Mohammed"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Adile Paago",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "Poultry Supervisor"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "Quality Control/Veterinarian"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "Sales and Marketing"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "8 Paradise St, Atali Farm Estate, Port Harcourt, RS 500101 ",
+    "phone": "+234 814 735 9296",
+    "email": "info@Dextraordinaryfarm.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,12 +163,12 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "Health Standards",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Transperency",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
